@@ -1,0 +1,2 @@
+output * bg /home/usercommon/Изображения/debian_grey_swirl.png fill
+exec waybar
